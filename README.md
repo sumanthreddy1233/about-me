@@ -15,10 +15,10 @@ This repo gives you the info about where the site is published and where is the 
 6. GitBash
 7. Node js
 ## Recommended Resources
-1. Best for html (https://ilovecoding.org/courses/htmlcss2)
-2. Best for github(https://www.youtube.com/watch?v=WbwIoQYP6no&t=1198s)
-3. Best site for Js(https://www.youtube.com/results?search_query=java+scripting+tutorial+for+beginners)
-4. Best site for learning CSS(https://www.youtube.com/watch?v=yfoY53QXEnI)
+1. [Best for html](https://ilovecoding.org/courses/htmlcss2)
+2. [Best for github](https://www.youtube.com/watch?v=WbwIoQYP6no&t=1198s)
+3. [Best site for Js](https://www.youtube.com/results?search_query=java+scripting+tutorial+for+beginners)
+4. [Best site for learning CSS](https://www.youtube.com/watch?v=yfoY53QXEnI)
 ## Contributors
 1. Name-Sumanth Reddy
 2. Course-Masters in Applied Computer Science
