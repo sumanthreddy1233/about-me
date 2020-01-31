@@ -1,21 +1,11 @@
-Nick Pierce,  Section 03, Dr. Eloe
+ Sumanth Reddy Naidu
 
- About my masters
+sumanth reddy-section 01-Dr.Case/11am
 
-Hello, I am a junior pursuing a degree in Computer Science with a mobile computing emphasis.
+ I am Sumanth a new member of this spring batch(2020)  working on my masters of Applied Computer Science and Engineering and I am from Nellore, Andhra Pradesh.
 
- About his residence
+I am from a computer science background completed my undergraduate in year 2019.I am a fresher and don't have any hands on experience. My hobbies are playing cricket, browsing internet and listening to music.
 
-I was raised in a small, rural town called Kearney- not to be confused with Kearney, NE! Our town is a big sports town to where we only talk about football or the weather (interesting conversations, I know).  I was a track and cross country runner my entire time there- which explains my patience and tenacity for programming errors!   Computers were so third world in my town; fortuitously, my father is a software architect so I grew my affinity for technology from him!  Today, I still loving running and coding, so I guess much hasn't changed!
+As I have already mentioned that I am a fresher with no previous work experience, I am very enthusiastic towards what i am gonna learn in this course. I hope to gain an in depth knowledge in every core subject that enhances opportunities in real world to build my career.
 
- 
-
- My career aspirations are ambitious but simple: to acquire a position in software architecture like my father.  I always loved designing and analyzing solutions as well as learning new technologies/ development paradigms.  It is my goal to learn as many languages, platforms, and design patterns I can to better prepare myself for what is to  come!  I am allured to web and application development.  I aimed to be a full stack developer ( develop both front-end and back-end deliverables)- hence why I'm here!
-
- 
-
-Something interesting about myself? In spite of being a programmer I hate playing video games all day (mind blowing right)?  Feel free to check and add my linkedin account! I look forward to having fun learning with you all!
-
-Linkedin:
-
-https://www.linkedin.com/in/nicholas-pierce-8222a6170/ 
+My linked in profile: https://www.linkedin.com/in/sumanth-reddy-76a88719a/
