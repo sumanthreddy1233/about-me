@@ -20,6 +20,6 @@ This repo gives you the info about where the site is published and where is the 
 3. Best site for Js(https://www.youtube.com/results?search_query=java+scripting+tutorial+for+beginners)
 4. Best site for learning CSS(https://www.youtube.com/watch?v=yfoY53QXEnI)
 ## Contributors
-Nmae-Sumanth Reddy
-Course-Masters in Applied Computer Science
-![Fav image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjE-G9bAJioFk5h-hcsKly4XivgtARnVskpByYbxxjYc-mVtdu&s)
+1. Name-Sumanth Reddy
+2. Course-Masters in Applied Computer Science
+3. ![Fav image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjE-G9bAJioFk5h-hcsKly4XivgtARnVskpByYbxxjYc-mVtdu&s)
