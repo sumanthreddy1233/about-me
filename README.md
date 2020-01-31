@@ -19,3 +19,7 @@ This repo gives you the info about where the site is published and where is the 
 2. Best for github(https://www.youtube.com/watch?v=WbwIoQYP6no&t=1198s)
 3. Best site for Js(https://www.youtube.com/results?search_query=java+scripting+tutorial+for+beginners)
 4. Best site for learning CSS(https://www.youtube.com/watch?v=yfoY53QXEnI)
+## Contributors
+Nmae-Sumanth Reddy
+Course-Masters in Applied Computer Science
+![Fav image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjE-G9bAJioFk5h-hcsKly4XivgtARnVskpByYbxxjYc-mVtdu&s)
