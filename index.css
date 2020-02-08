@@ -9,19 +9,33 @@ body {
   h2{
       color: rgb(233, 82, 36);
       text-align: left;
+      font-size: 50px;
   }
   h3{
       color: rgb(233, 82, 36);
       text-align: left;
+      font-size: 50px;
   }
   h4{
       color: rgb(233, 82, 36);
       text-align: left;
-  }
+      font-size: 50px;
+    }
+      h5{
+        color: rgb(233, 82, 36);
+        text-align: left;
+        font-size: 50px;
+    }
+    h6{
+        color: rgb(233, 82, 36);
+        text-align: left;
+        font-size: 50px;
+    }
+    
   p {
     font-family: 'Times New Roman';
-    font-size: 100px;
-    color: rgb(32, 85, 182);
+    font-size: 50px;
+    color: rgb(233, 82, 36);
   }
   nav{
     color: blue;
